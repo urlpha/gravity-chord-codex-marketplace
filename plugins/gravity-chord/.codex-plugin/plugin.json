@@ -1,0 +1,22 @@
+{
+  "name": "gravity-chord",
+  "version": "1.0.0",
+  "description": "GravityChord AI music producer: write lyrics, generate finished songs with mastering and share pages, check task status and list works. Requires a GravityChord account (OAuth sign-in on first use).",
+  "author": {
+    "name": "GravityChord",
+    "email": "cerro@gravitychord.com"
+  },
+  "license": "MIT",
+  "homepage": "https://music.gravitychord.com",
+  "repository": "https://github.com/urlpha/gravity-chord-codex-marketplace",
+  "keywords": [
+    "music",
+    "ai-music",
+    "songwriting",
+    "lyrics",
+    "bgm",
+    "instrumental"
+  ],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

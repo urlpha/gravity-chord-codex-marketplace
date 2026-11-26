@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gravity-chord": {
+      "type": "http",
+      "url": "https://music.gravitychord.com/mcp-oauth",
+      "startup_timeout_sec": 60,
+      "tool_timeout_sec": 1800
+    }
+  }
+}

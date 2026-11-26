@@ -1,0 +1,20 @@
+{
+  "name": "gravity-chord-marketplace",
+  "interface": {
+    "displayName": "GravityChord"
+  },
+  "plugins": [
+    {
+      "name": "gravity-chord",
+      "source": {
+        "source": "local",
+        "path": "./plugins/gravity-chord"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
